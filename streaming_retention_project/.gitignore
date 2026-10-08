@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+
+# Data and Models
+data/*.csv
+models/*.pkl
+
+# Databases
+chroma_db_data/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE and OS files
+.vscode/
+.cursor/
+.DS_Store

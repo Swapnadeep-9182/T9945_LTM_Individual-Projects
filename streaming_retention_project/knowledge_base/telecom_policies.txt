@@ -1,0 +1,13 @@
+**LTM Telecom Retention Policies & Service Level Agreements**
+
+Policy ID: RET-001
+Target: Customers with tenure less than 1 year facing high monthly charges.
+Action: Offer a 15% discount for 6 months if they switch to paperless billing.
+
+Policy ID: RET-002
+Target: Customers with tenure over 3 years lacking Tech Support.
+Action: Offer a free upgrade to Premium Tech Support and Device Protection for 1 year.
+
+Policy ID: RET-003
+Target: Month-to-month contract customers.
+Action: Offer a locked-in rate with a 20% discount if they upgrade to a 1-year contract. Do not offer this to customers who already have Fiber Optic internet.
